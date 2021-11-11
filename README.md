@@ -6,7 +6,7 @@
 
 - 🎓 Aluna da <a href="http://www.cubos.academy/" target="_blank">Cubos Academy</a> no curso de Desenvolvimento Web Full Stack
 
-- 🌱 Estou aprendendo mais sobre React e Node.js
+- 🌱 Estou aprendendo Typescript
 
 
 
